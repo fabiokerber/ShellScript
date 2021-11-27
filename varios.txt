@@ -1,0 +1,5 @@
+> Run another users
+$ su -c '/tmp/clean.sh' - someuser
+
+> Change Date/Time File
+$ touch -a -m -t 202109040130.09 access{0,1}.log
