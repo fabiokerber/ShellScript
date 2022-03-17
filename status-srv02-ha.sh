@@ -1,8 +1,4 @@
 #!/bin/bash
-# Script para verificar status do servidor
-# Criado por Aécio Oliveira
-# VERSION 1.1 Aécio Oliveira
-# VERSION 1.2 Aécio Oliveira (alteração na criação dos logs, devido a necessidade de termos um log, para banco, backup externo, backup online e status dos servidores).
 ########################################################################################################################
 ##########################Variaveis Fixa################################################################################
 ano=$(date +%y)                         		# Atribui o ano atual a variavel ano.

@@ -1,9 +1,4 @@
 #!/bin/bash
-# Script para realizacao de backup em hd externo
-# Criado por Aécio Oliveira
-#VERSION 1.1 - Criação do Script com o intuito de mais praticidade nos backups e nas manutenções.
-#VERSION 1.2 - Manter um log, para cada script de backup, status, backup do banco de dados e servidor reserva
-#VERSION 1.3 - Foi acrescentado o comando para desmontar qualquer disco antes da execução do backup
 ####################################################################################################################
 ##########################Variaveis Fixa############################################################################
 ano=$(date +%y)                         # Atribui o ano atual a variavel ano.

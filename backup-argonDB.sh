@@ -1,6 +1,4 @@
 #!/bin/bash
-# Script para realizacao de backup da base de dados da argon
-# Criado por Aécio Oliveira
 #VERSION 1.1
 . /etc/profile
 DATAFEITO="`date +%A`"						# Atribui a data ao Backup
